@@ -1,6 +1,6 @@
 # Doodle Jump Space Ventures 
 
-![Home Page](https://github.comWasee-Ur-Rehman/Doodle-Jump-Space-Ventures-SFML/main/images/HomePage1.png)
+![Home Page](https://github.com/Wasee-Ur-Rehman/Doodle-Jump-Space-Ventures-SFML/blob/main/images/CoverPage.png)
 
 ## Introduction
 Doodle Jump Game is a simple yet addictive game built using C++ and SFML. Navigate your doodle character through a series of platforms while avoiding fire meteors and collecting boosts.
