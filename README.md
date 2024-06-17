@@ -1,6 +1,6 @@
 # Doodle Jump Space Ventures 
 
-![Home Page](https://github.comWasee-Ur-Rehman/Doodle-Jump-Space-Ventures-SFML/blob/main/images/HomePage1.png)
+![Home Page](https://github.comWasee-Ur-Rehman/Doodle-Jump-Space-Ventures-SFML/main/images/HomePage1.png)
 
 ## Introduction
 Doodle Jump Game is a simple yet addictive game built using C++ and SFML. Navigate your doodle character through a series of platforms while avoiding fire meteors and collecting boosts.
@@ -42,5 +42,5 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ## Follow
 If you like this project, consider following me on GitHub for more exciting projects and updates.
 
-[Follow @yourusername on GitHub](https://github.com/yourusername)
+[Follow @Wasee-Ur-Rehman on GitHub](https://github.com/Wasee-Ur-Rehman)
 
